@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(150, 130, 171, 0.5);
+}
+
+h2{
+    font-family: Merriweather;
+    text-align: center;
+}
+li {
+    display: inline;
+    color: white;
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+
+  }
+.headerline {
+  padding: 10px;
+  background: rgba(0,0,0,0.5);
+}
+header{
+    align-items: center;
+}
