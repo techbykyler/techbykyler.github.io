@@ -5,6 +5,7 @@ body{
 h2{
     font-family: Merriweather;
     text-align: center;
+    color: white;
 }
 li {
     display: inline;
@@ -18,5 +19,23 @@ li {
   background: rgba(0,0,0,0.5);
 }
 header{
-    align-items: center;
+    text-align: center;
+    background: url("images/dogprints1.jpg"); 
+    color: aliceblue;
+    background-size:(cover);
+    padding:20px 0px 0px 0px
+}
+.white {
+  color: white;
+}
+p{
+  color:whitesmoke;
+}
+h1 {
+  font-size:40px;
+}
+#headerpic {
+  margin: 40px 0px 0px 0px;
+  
+  border: 7px solid white;
 }
